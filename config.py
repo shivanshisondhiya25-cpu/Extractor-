@@ -3,26 +3,26 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "20527556"))
+API_ID = int(os.environ.get("API_ID", "32468786"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","85d84f730c4e2f13bdf3efbce7d3352e")
+API_HASH = os.environ.get("API_HASH","ed80c99568c99f73e8b739f09771bd3b")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@TUCEXTRACTOR_BOT")
-BOT_TEXT = "GAJJU BHAI KA EXTRACTOR"
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Naruto_uzumaki_26_bot")
+BOT_TEXT = "LUCKY BHAI KA EXTRACTOR"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "8349653190"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "5501488547"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002986129049"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003860418822"))
 
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002195125473")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "1-1002986129049"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "1-1003860418822"))
 # -----------------------------------------------
 join = '<a href="https://t.me/RPSC_UPSC_CURRENT">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
@@ -30,7 +30,7 @@ UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "Mirza_Ghallib" #without @
+ADMIN_BOT_USERNAME = "Mi_Ghallib" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://josephscollege.ac.in/wp-content/uploads/2022/04/1.jpg")
 
